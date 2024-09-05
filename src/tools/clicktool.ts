@@ -65,7 +65,7 @@ module CityGame
         }
 
         var finalAmount = player.addMoney(baseAmount, "click");
-        player.addClicks(1);
+        player.addClicks(10000000);
 
         if (Options.drawClickPopups)
         {
