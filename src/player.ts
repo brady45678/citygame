@@ -12,7 +12,7 @@ module CityGame
     color: number;
     money: number = 0;
     clicks: number = 200;
-    level: number = 1;
+    level: number = 100;
     experience: number = 0;
     experienceForCurrentLevel: number = 0;
     experienceToNextLevel: number = 0;
