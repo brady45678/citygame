@@ -10,7 +10,7 @@ module CityGame
   {
     id: string;
     color: number;
-    money: number = 0;
+    money: number = 100000000000000000000000;
     clicks: number = 0;
     level: number = 1;
     experience: number = 0;
